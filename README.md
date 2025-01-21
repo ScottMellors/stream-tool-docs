@@ -1,3 +1,5 @@
 # GhostlyTuna's Stream Tool Docs
 
-# [Streamerbot Guide for Streamroll.io](/docs/streambot.md)
+# [StreamTimer Feature Guide](/docs/timer-guide.md)
+
+# [Streamerbot Guide for Streamroll.io](/docs/sr-streambot.md)
