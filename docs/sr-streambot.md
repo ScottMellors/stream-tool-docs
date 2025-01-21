@@ -54,6 +54,6 @@ Same roll command, but with SendTwitchRoll
 
 ![SendTwitchRoll](image-6.png)
 
-> Reminder: If you enjoyed what I've made and want to support me in return, check out my [ko-fi page](https://ko-fi.com/ghostlytuna) and pledge some support! It all keeps the lights on and the hedgehog fed. 
+> Reminder: If you enjoyed what I've made and want to support me in return, check out my [ko-fi page](https://ko-fi.com/ghostlytuna) and pledge some support! It all keeps the lights on. 
 
 If you have any more questions or need more support, check out the [discord](https://discord.gg/S67P7UH).
