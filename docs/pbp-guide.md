@@ -49,7 +49,9 @@ This is the profile for the 15 button Stream Deck, however all of these provided
 A frequent ask is allowing Mods to control the predictions. Currently there is no programatic way of doing this but there is a workaround with the new plugin.
 
 1. As the streamer, load the backup auth flow into a browser
+
 !["Copy Link to Clipboard" Button highlighted in Stream Deck Software](pbp/alt_auth.png)
+
 2. Complete the auth flow as usual
 3. On the final page, instead of left clicking the button, right click and press the "Copy Link Address" button. This will add a URL starting with **streamdeck://...**
 ![The context menu of a button being shown](pbp/copy_link.png)
