@@ -44,6 +44,19 @@ This is the profile for the 15 button Stream Deck, however all of these provided
 
 > **Please do not edit these profiles**: Functionality can be broken if you mess with these profiles, if you have done this, just delete the profile and when you relaunch as prediction it will recreate it!
 
+## Mod Controlled Predictions **EXPERIMENTAL**
+
+A frequent ask is allowing Mods to control the predictions. Currently there is no programatic way of doing this but there is a workaround with the new plugin.
+
+1. As the streamer, load the backup auth flow into a browser
+!["Copy Link to Clipboard" Button highlighted in Stream Deck Software](pbp/alt_auth.png)
+2. Complete the auth flow as usual
+3. On the final page, instead of left clicking the button, right click and press the "Copy Link Address" button. This will add a URL starting with **streamdeck://...**
+![The context menu of a button being shown](pbp/copy_link.png)
+4. Share this with the trusted user to control the predictions from this Stream Deck. and open it on a browser, this will then authorise that stream deck with the details needed. (It should open the Stream Deck software, or bring it to the forefront)
+
+**NOTE:** This may interrupt control of the plugin on the original Stream Deck, in testing all devices could still control the predictions however further testing and refinement needs to be done. I cannot guarantee this will work flawlessly as it was not designed for this purpose.
+
 ## Support
 
 > If you enjoyed what I've made and want to support me further, check out my [ko-fi page](https://ko-fi.com/ghostlytuna) and pledge some support! It all keeps the lights on. 
