@@ -5,3 +5,7 @@
 # [Prediction Buttons Plus](/docs/pbp-guide.md)
 
 # [Streamerbot Guide for Streamroll.io](/docs/sr-streambot.md)
+
+# [SLD Terms Of Service](/docs/sld-tos.md)
+
+# [SLD Privacy Policy](/docs/sld-pp.md)
