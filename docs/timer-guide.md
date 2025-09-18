@@ -21,7 +21,7 @@ Just add the relevant labels to your timer layout e.g. `{days}` or `{totalhours}
 
 > Q: Can I do a subathon using multiple platforms?
 
-Yes! Check out how to get started [here](/stream-tool-docs/docs/timer-crossplatform-guide).
+Yes! Check out how to get started [here](/stream-tool-docs/docs/timer-crossplatform-guide.md).
 
 ## Get Started
 

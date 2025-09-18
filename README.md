@@ -2,6 +2,8 @@
 
 # [StreamTimer Feature Guide](/docs/timer-guide.md)
 
+# [StreamTimer MultiStream Guide](/stream-tool-docs/docs/timer-crossplatform-guide.md)
+
 # [Prediction Buttons Plus](/docs/pbp-guide.md)
 
 # [Streamerbot Guide for Streamroll.io](/docs/sr-streambot.md)
