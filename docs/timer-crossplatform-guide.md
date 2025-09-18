@@ -6,7 +6,7 @@ Currently the timer works on having a primary platform (the one you log in with)
 
 First you will need to acquire the relevant connector actions or software to trigger the new platform actions.
 
-These can be acquired from the [Ko-Fi Store](https://ko-fi.com/ghostlytuna).
+These can be acquired from the [Ko-Fi Shop](https://ko-fi.com/ghostlytuna/shop).
 
 ## Setup for StreamerBot actions
 

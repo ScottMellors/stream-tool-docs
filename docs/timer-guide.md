@@ -1,11 +1,10 @@
 
 # StreamTimer.io User Guide
 
-// About the tool
+A multi functional Stream Timing tool, including subathons, count ups, count downs and trains.
 
-// Support link
-
-// Kofi Link?
+Want to support the tools or want something bespoke?
+Check out the [Ko-Fi](https://ko-fi.com/ghostlytuna).
 
 ## FAQ
 
@@ -19,22 +18,20 @@ Just add the relevant labels to your timer layout e.g. `{days}` or `{totalhours}
 
 > Q: How do the labels work?
 
+Labels are placeholders for the values they relate to. So `{hours}` will change to the current hours value, see options page for advanced label features like optional labels.
+
 > Q: Can I do a subathon using multiple platforms?
 
 Yes! Check out how to get started [here](/stream-tool-docs/docs/timer-crossplatform-guide.md).
 
+> Q: Why has my primary platform changed on my StreamElements account?
+
+Depending on which platform is active on your account will swap which is your primary platform when using a StreamElements account. Simply change the active account on StreamElements and log back in to the options page to change platform.
+
 ## Get Started
 
-## Labels + Dynamic Labels
+Once logged in with your platform of choice, you will be need to add the overlay to your streaming software of choice.
 
-Watch this short clip to explain how it works!
+Note: Keep this URL safe and do not share this with anyone who cannot be trusted. If you think this has been exposed you can reset it with the button on the options page.
 
-## Quick Links
-
-## Low Time Warning Mode
-
-## Streamer hardware
-
-### Elgato Stream Deck
-
-### Loupedeck
+Ensure the source does not get refreshed when shown, disable the setting to ensure continuity in your timer across scenes.
