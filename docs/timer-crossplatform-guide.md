@@ -33,7 +33,7 @@ NOTE: Some platforms may be controlled by the actions themselves, check the stor
 
 ## Setup for MixItUpBot Actions
 
-1. Import event commands and actions to MixItupBot.
+1. Import event commands and actions to MixItUpBot. These will be individual files.
 
 2. Update the UUID field in the script actions added. `let UUID = "CHANGEME";`
 
