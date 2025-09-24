@@ -31,6 +31,32 @@ NOTE: Some platforms may be controlled by the actions themselves, check the stor
 
 5. Now fully setup, the events should trigger as expected. You can test these by testing the triggers in StreamerBot.
 
+## Setup for MixItUpBot Actions
+
+1. Import event commands and actions to MixItupBot.
+
+2. Update the UUID field in the script actions added. `let UUID = "CHANGEME";`
+
+![MixItUpBot Edit Script Screenshot](/stream-tool-docs/docs/st/miu_setup1.png)
+
+![MixItUpBot Edit Script line Screenshot](/stream-tool-docs/docs/st/miu_setup2.png)
+
+3. Connect platform with associated command. Check store listing for more info!
+
+![YouTube connect action](/stream-tool-docs/docs/st/sb_setup.png)
+
+*If Successful, you should get the above output.*
+
+4. If the platform was already supported on the website, visiting the options page will now list the associated platform and events.
+
+![StreamTimer.io Options Page /w Platforms unlocked](/stream-tool-docs/docs/st/sb_website1.png)
+
+![StreamTimer.io Options Page /w Platforms unlocked](/stream-tool-docs/docs/st/sb_website2.png)
+
+NOTE: Some platforms may be controlled by the actions themselves, check the store listing for more info.
+
+5. Now fully setup, the events should trigger as expected. You can test these by testing the triggers in MixItUpBot.
+
 ## Not got a platform or app listed as support?
 
 Let me know and we can add it to the roadmap or build something bespoke.
