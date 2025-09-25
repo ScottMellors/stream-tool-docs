@@ -2,7 +2,7 @@
 
 # [StreamTimer Feature Guide](/docs/timer-guide.md)
 
-# [StreamTimer MultiStream Guide](/stream-tool-docs/docs/timer-crossplatform-guide.md)
+# [StreamTimer MultiStream Guide](docs/timer-crossplatform-guide.md)
 
 # [Prediction Buttons Plus](/docs/pbp-guide.md)
 
