@@ -33,7 +33,9 @@ NOTE: Some platforms may be controlled by the actions themselves, check the stor
 
 ## Setup for MixItUpBot Actions
 
-1. Import event commands and actions to MixItUpBot. These will be individual files.
+1. Import Action Group "ConnectYouTube", create a command that can be triggered in chat for this action group (We recommend !connectYT) and Event Commands for each event type to MixItUpBot. These will be individual files.
+
+NOTE: MIU Bot does not have YouTube subscriber support, this may appear on the website but will not be triggered.
 
 2. Update the UUID field in the added script actions and the ConnectYoutube action group. `let UUID = "CHANGEME";`
 
