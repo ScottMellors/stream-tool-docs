@@ -23,6 +23,10 @@ You can find the StreamerBot section on the tools tab once you have logged in!
 
 > **SendTwitchRoll** Similar to SendBasicRoll but has already setup components to get the event that triggers this action (channel points, chat command etc) and add that into a basic roll. 
 
+**SendConfigRoll** Supports the new system of configs, specify a config name to trigger.
+
+**SendTwitchConfigRoll** Similar to SendConfigRoll however has the extra Twitch connectivity setup.
+
 ## 3. Ensure the websocket server is turned on in SB.
 
 **Ensure it is the correct websocket server, selecting the wrong will mean this actions cannot operate.**
@@ -36,13 +40,16 @@ You will need to add the listener action **GetRolledValue** to the setup here.
 
 ![Alt text](image-4.png)
 
-## 5. Add UUID to the custom code sections of the actions.
+## 5. Add UUID to the global variables of Streamerbot.
 
-*Ensure the UUID is within the " " quotation marks!*
+![Global Variables](st/sb_globals1.png)
 
-> The other fields can be customised with other inputs, check out SB's documentation on adding variables to actions and chaining them together!
+The StreamerBot Global variables means it can be set once and works across all the actions.
 
-Do not delete any of the fields and ensure the export field has at the **"{}"** within it!
+//TODO change image to reflect
+![Set to StreamRoll UUID](st/sb_globals2.png)
+
+Remember to make sure it is spelt "StreamTimer UUID"!
 
 ## 6. All setup, trigger away!
 
