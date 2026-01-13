@@ -1,7 +1,7 @@
 
 # Connecting to StreamerBot
 
-This is a step by step guide to get your streamroll overlays connected to streamerbot. 
+This is a step by step guide to get your streamroll overlays connected to streamerbot.
 
 ## 1. Get signed up at Streamroll.io.
 
@@ -21,7 +21,7 @@ You can find the StreamerBot section on the tools tab once you have logged in!
 
 > **SendBasicRoll** Sends a set roll to the overlay.
 
-> **SendTwitchRoll** Similar to SendBasicRoll but has already setup components to get the event that triggers this action (channel points, chat command etc) and add that into a basic roll. 
+> **SendTwitchRoll** Similar to SendBasicRoll but has already setup components to get the event that triggers this action (channel points, chat command etc) and add that into a basic roll.
 
 **SendConfigRoll** Supports the new system of configs, specify a config name to trigger.
 
@@ -49,7 +49,7 @@ The StreamerBot Global variables means it can be set once and works across all t
 //TODO change image to reflect
 ![Set to StreamRoll UUID](st/sb_globals2.png)
 
-Remember to make sure it is spelt "StreamTimer UUID"!
+Remember to make sure it is spelt "StreamRoll UUID"!
 
 ## 6. All setup, trigger away!
 
@@ -61,6 +61,6 @@ Same roll command, but with SendTwitchRoll
 
 ![SendTwitchRoll](image-6.png)
 
-> Reminder: If you enjoyed what I've made and want to support me in return, check out my [ko-fi page](https://ko-fi.com/ghostlytuna) and pledge some support! It all keeps the lights on. 
+> Reminder: If you enjoyed what I've made and want to support me in return, check out my [ko-fi page](https://ko-fi.com/ghostlytuna) and pledge some support! It all keeps the lights on.
 
 If you have any more questions or need more support, check out the [discord](https://discord.gg/S67P7UH).
