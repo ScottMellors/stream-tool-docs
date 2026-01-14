@@ -15,7 +15,7 @@ You can find the StreamerBot section on the tools tab once you have logged in!
 
 ![Copy to clipboard button](image.png)
 
-![Example Import](image-3.png)
+![Example Import](sr/sr_sb_3.png)
 
 > **GetRolledValue** handles getting the value from the overlay into SB.
 
