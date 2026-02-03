@@ -8,6 +8,8 @@
 
 # [Streamerbot Guide for Streamroll.io](/docs/sr-streambot.md)
 
+# [OBS Websocket Guide for Streamroll.io](/docs/sr-obs.md)
+
 # [SLD Terms Of Service](/docs/sld-tos.md)
 
 # [SLD Privacy Policy](/docs/sld-pp.md)
